@@ -33,7 +33,11 @@
 
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
                 <div class="flex justify-center" style="color: red;">
+<<<<<<< HEAD
                     <h1>Done</h1>
+=======
+                    <h1>21FTT1283</h1>
+>>>>>>> parent of 5bc2abc... 21FTT1283 Logo changed to AS2
                 </div>
 
                 <div class="mt-16">
